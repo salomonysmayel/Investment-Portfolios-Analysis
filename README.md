@@ -12,7 +12,7 @@ All portfolios end up outperforming the S&P500, but not though the whole plot, a
 
 1. Create a box plot for each of the returns. Which box has the largest spread? Which has the smallest spread?
 
-Considering all data points, the portfolio with the smallest spread seems to be PAULSON & CO.INC.
+Considering all data points, the portfolio with the smallest spread seems to be PAULSON & CO.INC.while Berkshire has the largest spread
 
 2. Calculate the standard deviation for each portfolio. Which portfolios are riskier than the S&P 500?
 
