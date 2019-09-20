@@ -1,5 +1,3 @@
-# HOMEWORK_PANDAS
-
 ### Conduct Quantitative Analysis
 
 Analyze the data to see if any of the portfolios outperform the stock market (i.e., the S&P 500).
@@ -24,7 +22,7 @@ Portfolios that are riskier than S&P 500 are TIGER GLOBAL MANAGEMENT LLC and BER
 
 1. Plot the rolling standard deviation of the firm's portfolios along with the rolling standard deviation of the S&P 500. Does risk increase for each of the portfolios at the same time risk increases in the S&P?
 
-In general the risk of portfolios follow the same patern as time goes by, but looking up close we can find some portfolios that increase risk while S&P 500 decreases risk. Between 2015-07 and 2016-01 We can see that for some time risk for S&P 500 was increasing as Algo1 risk was decreasing. But I would say that in general it seems all portfolios tend to go along in terms of risk variation but if you condiser bigger intervals of time.
+In general the risk of portfolios follow the same pattern as time goes by, but looking up close we can find some portfolios that increase risk while S&P 500 decreases risk. Between 2015-07 and 2016-01 We can see that for some time risk for S&P 500 was increasing as Algo1 risk was decreasing. But I would say that in general it seems all portfolios tend to go along in terms of risk variation but if you consider bigger intervals of time.
 
 2. Construct a correlation table for the algorithmic, whale, and S&P 500 returns. Which returns most closely mimic the S&P?
 
@@ -43,3 +41,7 @@ Investment managers and their institutional investors look at the return-to-risk
 2. Determine whether the algorithmic strategies outperform both the market (S&P 500) and the whales portfolios.
 
 Algo1 outperforms all portfolios. Algo2 outperforms all but BERKSHIRE HATHAWAY INC (And Algo1)
+
+CUSTOM PORTFOLIO ANALYSIS
+
+For cumulative returns, custom portfolio ends up outperforming all other portfolios. Is riskier that all but BERKSHIRE HATHAWAY INC. Beta for custom portfolio tends to grow when the market gets less risky. It has a high sharpe ratio compared to the other portfolios, except for ALGO1. Custom portfolio is more correlated with Algo2 portfolio with a corr value of 0.755, meaning that for the return this portfolio generated is worth taking the risk compared to the other portfolios with less Sharpe ratios, except for Algo2 portfolio.
