@@ -1,17 +1,13 @@
 ## Investment Portfolios Analysis 
-### by Salomón Ysmáyel
+#### by Salomón Ysmáyel
+
 
 ### Introduction
 
 Analysis of different portfolios to determine which outperformes the others on: volatility, returns, risk, and Sharpe ratios. Two algorithmic trading portfolios (algo1 and algo2), four that represent the portfolios of famous "whale" investors like Warren Buffett, and some from big hedge and mutual funds, as well as a custom portfolio and the S&P 500.
 
-### Libraries used on this Project:
+### Libraries used on this Project: Pandas, Numpy and Matplotlib.
 
-**Pandas**
-
-**Numpy**
-
-**Matplotlib** 
 
 
                                          Portfolios Returns Dataframe
