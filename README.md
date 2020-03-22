@@ -1,37 +1,14 @@
-# Pandas Project
+## Investment Portfolios Analysis 
 
-## Background
+Analysis of different portfolios to determine which outperformes the others on: volatility, returns, risk, and Sharpe ratios. Two algorithmic trading portfolios (algo1 and algo2), four that represent the portfolios of famous "whale" investors like Warren Buffett, and some from big hedge and mutual funds, as well as a custom portfolio and the S&P 500.
 
-The investment division of Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
-You just learned these quantitative analysis techniques with Python and Pandas, so Harold has come to you with a challenge—to help him determine which portfolio is performing the best across many areas: volatility, returns, risk, and Sharpe ratios.
-You will need to create a tool (an analysis notebook) that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others. You will be given the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from big hedge and mutual funds. You will then use this analysis to create a custom portfolio of stocks and compare its performance to that of the other portfolios, as well as the larger market (S&P 500).
-In this homework assignment, you will be accomplishing three main tasks:
+### Libraries used on this Project:
 
-Read in and Wrangle Returns Data
-Determine Success of Each Portfolio
-Choose and Evaluate a Custom Portfolio
+**Pandas*
+**Numpy**
+**Matplotlib**
 
-## Instructions
-
-File: Whale Analysis Starter Code
-
-Prepare the Data
-First, read and clean several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historic prices. Use the Whale Analysis Starter Code to complete the following steps:
-
-
-Use Pandas to read in each of the CSV files as a DataFrame. Be sure to convert the dates to a DateTimeIndex.
-
-
-Detect and remove null values.
-
-
-Remove dollar signs from the numeric values and convert the data types as needed.
-
-
-The whale portfolios and algorithmic portfolio CSV files contain daily returns, but the S&P 500 CSV file contains closing prices. Convert the S&P 500 closing prices to daily returns.
-
-
-Join Whale Returns, Algorithmic Returns, and the S&P 500 Returns into a single DataFrame with columns for each portfolio's returns.
+![supply_chain](/images/1.png)
 
 
 Conduct Quantitative Analysis
@@ -91,6 +68,8 @@ Add your portfolio returns to the DataFrame with the other portfolios and rerun 
 
 
 ## Results
+
+![supply_chain](/Images/network_create.png)
 
 
 ### Conduct Quantitative Analysis
