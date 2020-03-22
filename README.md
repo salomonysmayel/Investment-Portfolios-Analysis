@@ -8,9 +8,10 @@ Analysis of different portfolios to determine which outperformes the others on: 
 
 **Numpy**
 
-**Matplotlib**
+**Matplotlib** 
 
-Portfolios returns dataframe
+
+                 Portfolios Returns Dataframe
 
 ![supply_chain](/images/1.png)
 
