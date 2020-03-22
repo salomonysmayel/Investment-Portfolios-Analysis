@@ -11,9 +11,11 @@ Analysis of different portfolios to determine which outperformes the others on: 
 **Matplotlib** 
 
 
-                 Portfolios Returns Dataframe
+                                             Portfolios Returns Dataframe
 
 ![supply_chain](/images/1.png)
+
+![supply_chain](/images/2.png)
 
 
 Conduct Quantitative Analysis
