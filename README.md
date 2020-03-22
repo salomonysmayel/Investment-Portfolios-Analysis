@@ -4,9 +4,13 @@ Analysis of different portfolios to determine which outperformes the others on: 
 
 ### Libraries used on this Project:
 
-**Pandas*
+**Pandas**
+
 **Numpy**
+
 **Matplotlib**
+
+Portfolios returns dataframe
 
 ![supply_chain](/images/1.png)
 
