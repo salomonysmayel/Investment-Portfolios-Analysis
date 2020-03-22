@@ -14,9 +14,12 @@ Analysis of different portfolios to determine which outperformes the others on: 
                                          Portfolios Returns Dataframe
 
 ![supply_chain](/images/1.png)
+                                           
                                            Portfolios Daily Returns
 ![supply_chain](/images/2.png)
 
+                                         Portfolios Cumulative Returns
+![supply_chain](/images/3.png)                                        
 
 Conduct Quantitative Analysis
 
